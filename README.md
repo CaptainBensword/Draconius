@@ -4,24 +4,24 @@
 
 ## First preview build
 
-[Download Draconius Modern](Builds/Draconius-Modern-1.21.11-to-26.3.zip)
+A verified local test ZIP is available with the project handoff. The repository download is being held back until the binary upload can be verified end-to-end.
 
-- **Compatibility:** Java Edition 1.21.11 through 26.3
-- **Texture scale:** 16×16
+- **Compatibility target:** Java Edition 1.21.11 through 26.3
+- **Texture scale:** 16×16 for blocks and item icons
 - **Archive size:** approximately 11 KiB
-- **Style:** recognizably Minecraft, with cooler diamond tones, restrained gold details, and slightly richer common blocks
+- **Style:** recognizable Minecraft textures, cooler diamond tones, restrained gold details, and richer common blocks
 
 ### Included
 
 - **Common terrain:** grass block top and side, dirt, stone, cobblestone, oak planks, sand, gravel, and deepslate
-- **Diamond armor:** helmet, chestplate, leggings, boots, and wearable armor-layer textures
-- **Diamond tools:** pickaxe, axe, shovel, and hoe
+- **Diamond armor:** helmet, chestplate, leggings, boots, plus wearable armor-layer textures
+- **Diamond tools:** pickaxe, shovel, and hoe
 
-This is an early playable preview. It focuses on terrain, armor, and tools; weapon textures are not included.
+This first preview focuses on terrain, armor, and gathering tools. Weapon textures are not included in this build.
 
 ## Install
 
-1. Download the ZIP above. **Do not extract it.**
+1. Download the Draconius ZIP supplied with the project handoff. **Do not extract it.**
 2. Open Minecraft Java Edition.
 3. Go to **Options → Resource Packs → Open Pack Folder**.
 4. Move the ZIP into that folder.
@@ -33,4 +33,4 @@ This build targets modern Java resource-pack formats from 1.21.11 through 26.3. 
 
 ## Development status
 
-This is the first in-game test build. The ZIP structure and PNG files have been checked, but the pack has not yet been launched in Minecraft. Please report any missing textures or armor alignment issues so they can be corrected before expanding the pack.
+This is the first in-game test build. Its ZIP structure and PNG files have been checked, but it has not yet been launched in Minecraft. Test it in a new single-player world and report any missing textures or armor alignment issues before we expand the pack.
